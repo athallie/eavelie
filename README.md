@@ -1,3 +1,4 @@
+# About Me
 - 👋 Hi, I’m @eavelie. It's an alias.
 - 👀 I’m interested in embedded systems programming, game programming, and data science.
 - 🌱 I’m currently learning mechanical engineering and programming. The languages I'm currently learning are C, C++, an Python.
